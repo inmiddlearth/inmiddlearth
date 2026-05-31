@@ -23,7 +23,7 @@ I bridge the gap between language, education, and technology. I design and deliv
 * 📁 **[Digital Learning & Curriculum Portfolio](AQUÍ_IRÁ_TU_ENLACE)** - Un compendio visual de mis diseños curriculares, materiales educativos y proyectos de traducción.
 
 * 🤖 **My Automation Journey:** A collection of scripts I am building as I teach myself automation.
-* * 🤖 **[AutoHotkey Translation Shortcuts](atajos_traduccion.ahk):** A macro script built to automate repetitive text phrases, subtitles tagging, and quick website access.
+ * 🤖 **[AutoHotkey Translation Shortcuts](atajos_traduccion.ahk):** A macro script built to automate repetitive text phrases, subtitles tagging, and quick website access.
 ---
 
 ### 📫 Let's Connect!
