@@ -12,6 +12,8 @@ I bridge the gap between language, education, and technology. I design and deliv
 * **Subtitling:** English to Spanish, Spanish to English
 * **Captioning:** English to English, Spanish to Spanish
 * **🤖 Automation & AI (Actively Learning):** Python, AI Coding (Cursor), RPA, AutoHotkey, Power Automate
+* * 🤖 **My Automation Journey:** A collection of scripts I am building as I teach myself automation.
+  * 🖱️ **[AutoHotkey Translation Shortcuts](atajos_traduccion.ahk):** A macro script built to automate repetitive text phrases, subtitles tagging, and quick website access.
 ---
 
 ### 📂 Featured Projects
