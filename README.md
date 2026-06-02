@@ -20,7 +20,7 @@ I bridge the gap between language, education, and technology. I design and deliv
 * 📝 **Subtitling Projects:** YouTube videos, documentaries, short and feature films, educational materials, medical content, AI and programming conferences, courses, lectures, and seminars. 
   * **Key Clients:** Rare Beauty, Siemens, Best Buy, and more.
 
-* 📁 **[Digital Learning & Curriculum Portfolio](https://sites.google.com/view/inmiddlearth)** - Un compendio visual de mis diseños curriculares, materiales educativos y proyectos de traducción.
+* 📁 **[Digital Learning & Curriculum Portfolio](https://sites.google.com/view/inmiddlearth)** - A visual compendium of my curriculum designs and educational materials.
 
 * 🤖 **My Automation Journey:** A collection of scripts I am building as I teach myself automation.
   * **[AutoHotkey Translation Shortcuts](atajos_traduccion.ahk):** A macro script built to automate repetitive text phrases, subtitles tagging, and quick website access.
