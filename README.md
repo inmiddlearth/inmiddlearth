@@ -11,7 +11,7 @@ I bridge the gap between language, education, and technology. I design and deliv
 * **Digital Learning & Language Teaching:** E-Learning Development, Curriculum Design, English and Spanish Language Teaching
 * **Subtitling:** English to Spanish, Spanish to English
 * **Captioning:** English to English, Spanish to Spanish
-* ** Automation & AI (Actively Learning):** Python, AI Coding (Cursor), RPA, AutoHotkey, Power Automate
+* **Automation & AI (Actively Learning):** Python, AI Coding (Cursor), RPA, AutoHotkey, Power Automate
 
 ---
 
